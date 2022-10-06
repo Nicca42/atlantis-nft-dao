@@ -1,1 +1,1 @@
-# atlantis-nft-dao
+# Atlantis NFT DAO
